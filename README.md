@@ -1,5 +1,4 @@
-**Unity-OSC-to-Reaper
-**
+**Unity-OSC-to-Reaper**
 
 Dieses Projekt demonstriert die Übertragung von Positionsdaten eines bewegten 3D-Objekts in Unity via OSC (Open Sound Control) an Reaper. Damit kann z. B. die Lautstärke (Volume) eines Tracks in Reaper in Echtzeit gesteuert werden – basierend auf Objektpositionen im Raum.
 
@@ -20,8 +19,7 @@ Dieses Projekt demonstriert die Übertragung von Positionsdaten eines bewegten 3
 - Python (optional für OSC-Dummy)
 - Git & GitHub (für Versionierung)
 
-**Installation & Start
-**
+**Installation & Start**
 
 - Repository klonen: git clone https://github.com/DEIN-BENUTZERNAME/Unity-OSC-to-Reaper.git
 - Projekt in Unity öffnen
@@ -32,7 +30,7 @@ Dieses Projekt demonstriert die Übertragung von Positionsdaten eines bewegten 3
   - Add: OSC (local)
   - Port: 9000
   - Pattern config: Default
-- Unity: ▶️ Play drücken → Kugelbewegung beginnt
+- Unity: Play drücken → Kugelbewegung beginnt
 - Reaper: Track 1 Volume-Fader reagiert auf die Bewegung
 
 **Aufbau**
@@ -50,8 +48,8 @@ Unity (OscSphereMover):
 → UDP/OSC
 → Reaper (/track/1/volume)
 
-**Erweiterungsideen
-**
+**Erweiterungsideen**
+
 - Integration von Meta Quest Headtracking
 - Bidirektionale OSC-Kommunikation (Reaper → Unity)
 - Rotation & Blickrichtung
