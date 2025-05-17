@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extOSC", "extOSC.csproj", "{C4561ACD-81B7-D379-6E62-7FFA774811ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extOSC.Editor", "extOSC.Editor.csproj", "{9DFBCF67-69CD-4AC5-C15E-D4FC504E4D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{C10CCD90-DF5E-8DEF-0DA7-361CD33B88E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4561ACD-81B7-D379-6E62-7FFA774811ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4561ACD-81B7-D379-6E62-7FFA774811ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4561ACD-81B7-D379-6E62-7FFA774811ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4561ACD-81B7-D379-6E62-7FFA774811ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFBCF67-69CD-4AC5-C15E-D4FC504E4D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFBCF67-69CD-4AC5-C15E-D4FC504E4D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFBCF67-69CD-4AC5-C15E-D4FC504E4D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFBCF67-69CD-4AC5-C15E-D4FC504E4D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10CCD90-DF5E-8DEF-0DA7-361CD33B88E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10CCD90-DF5E-8DEF-0DA7-361CD33B88E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10CCD90-DF5E-8DEF-0DA7-361CD33B88E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10CCD90-DF5E-8DEF-0DA7-361CD33B88E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
