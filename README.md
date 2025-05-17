@@ -55,7 +55,3 @@ Unity (OscSphereMover):
 - Rotation & Blickrichtung
 - Ambisonics & Spatial Audio-Interfaces
 - GitHub-Collaboration & Branch-basierte Weiterentwicklung
-
-**Lizenz**
-Dieses Projekt dient zu Lern- und Demonstrationszwecken. Teile, verbessere oder erweitere es gerne – Feedback willkommen!
-
