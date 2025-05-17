@@ -1,6 +1,6 @@
 **Unity-OSC-to-Reaper**
 
-[Demo] (Unity-Reaper-View.png)
+[Demo](Screenshot.png)
 
 
 Dieses Projekt demonstriert die Übertragung von Positionsdaten eines bewegten 3D-Objekts in Unity via OSC (Open Sound Control) an Reaper. Damit kann z. B. die Lautstärke (Volume) eines Tracks in Reaper in Echtzeit gesteuert werden – basierend auf Objektpositionen im Raum.
