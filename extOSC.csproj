@@ -126,8 +126,8 @@
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/Informers/OSCTransmitterInformerVector4.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/Misc/OSCReceiverGyro.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/Events/OSCReceiverEventLong.cs" />
-    <Compile Include="Assets/OSC/extOSC/Scripts/Core/OSCConsolePacket.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Core/OSCConverter.cs" />
+    <Compile Include="Assets/OSC/extOSC/Scripts/Core/OSCConsolePacket.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Core/Events/OSCEventString.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Core/Packers/OSCPackerMidi.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/Informers/OSCTransmitterInformerFloat.cs" />
@@ -164,8 +164,8 @@
     <Compile Include="Assets/OSC/extOSC/Scripts/OSCUtilities.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionBool.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Core/Events/OSCEventRect.cs" />
-    <Compile Include="Assets/OSC/extOSC/Scripts/Core/Events/OSCEventMessage.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/Events/OSCReceiverEventFloat.cs" />
+    <Compile Include="Assets/OSC/extOSC/Scripts/Core/Events/OSCEventMessage.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/Events/OSCReceiverEventMessage.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/UI/OSCButton.cs" />
     <Compile Include="Assets/OSC/extOSC/Scripts/Components/ReceiverReflection/OSCReceiverReflectionBlob.cs" />
